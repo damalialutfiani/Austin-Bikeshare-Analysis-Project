@@ -9,7 +9,7 @@ Bike shares are becoming a popular alternative means of transportation. The City
 
 > Content
 
-This dataset contains information on the name, kind, price, quantity, and location of sale of sales of individual containers or packages of containers of alcoholic beverages.
+This data includes information on bike trip start location, stop location, duration, type of bike share user. Bike station location data is also provided.
 
 -- Taken from [kaggle.com by ALEKSEY BILOGUR](https://www.kaggle.com/datasets/residentmario/iowa-liquor-sales) --
 
