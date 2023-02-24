@@ -11,6 +11,6 @@ Bike shares are becoming a popular alternative means of transportation. The City
 
 This data includes information on bike trip start location, stop location, duration, type of bike share user. Bike station location data is also provided.
 
--- Taken from [kaggle.com by ALEKSEY BILOGUR](https://www.kaggle.com/datasets/residentmario/iowa-liquor-sales) --
+-- Taken from [kaggle.com by JACOB BOYSEN](https://www.kaggle.com/datasets/jboysen/austin-bike)--
 
 -----------------------------------------------------------------------------------
