@@ -5,7 +5,7 @@
 -----------------------------------------------------------------------------------
 > Context
 
-The Iowa Department of Commerce requires that every store that sells alcohol in bottled form for off-the-premises consumption must hold a class "E" liquor license (an arrangement typical of most of the state alcohol regulatory bodies). All alcoholic sales made by stores registered thusly with the Iowa Department of Commerce are logged in the Commerce department system, which is in turn published as open data by the State of Iowa.
+Bike shares are becoming a popular alternative means of transportation. The City of Austin makes data available on >649k bike trips over 2013-2017.
 
 > Content
 
